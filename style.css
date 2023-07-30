@@ -1,0 +1,314 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.m3 {
+    width: 100%;
+    height: 600px;
+    background: url(model-3.jpg);
+    background-size: cover;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    margin-left: 18px;
+    cursor: pointer;
+}
+
+nav ul {
+    flex: 1;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 10px 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+nav .btn {
+    color: black;
+    text-decoration: none;
+    margin-right: 18px;
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 5px 5px;
+    margin-right: 20px;
+    color: black;
+    font-weight: 500;
+}
+
+.content {
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 7%;
+}
+
+.content h1 {
+    font-size: 50px;
+}
+
+.links {
+    position: absolute;
+    margin-top: 42%;
+    margin-left: 30%;
+}
+
+.links .custom {
+    padding: 10px 80px;
+    text-decoration: none;
+    color: #fff;
+    background-color: rgb(37, 37, 37);
+    border-radius: 5px;
+}
+
+.links .exit {
+    padding: 10px 80px;
+    text-decoration: none;
+    color: rgb(37, 37, 37);
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.my {
+    width: 100%;
+    height: 820px;
+    background: url(ModelY.jpg);
+    background-size: cover;
+}
+
+.content1 {
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 20%;
+}
+
+.content1 h1 {
+    font-size: 50px;
+}
+
+.links1 {
+    position: absolute;
+    margin-top: 59%;
+    margin-left: 30%;
+}
+
+.links1 .custom1 {
+    padding: 10px 80px;
+    text-decoration: none;
+    color: #fff;
+    background-color: rgb(37, 37, 37);
+    border-radius: 5px;
+}
+
+.links1 .exit1 {
+    padding: 10px 80px;
+    text-decoration: none;
+    color: rgb(37, 37, 37);
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.ms {
+    width: 100%;
+    height: 620px;
+    background: url(model-s.jpg);
+    background-size: cover;
+}
+
+.content2 {
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+.content1 h1 {
+    font-size: 50px;
+}
+
+.links2 {
+    position: absolute;
+    margin-top: 44%;
+    margin-left: 30%;
+}
+
+.links2 .custom2 {
+    padding: 10px 80px;
+    text-decoration: none;
+    color: #fff;
+    background-color: rgb(37, 37, 37);
+    border-radius: 5px;
+}
+
+.links2 .exit2 {
+    padding: 10px 80px;
+    text-decoration: none;
+    color: rgb(37, 37, 37);
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.mx {
+    width: 100%;
+    height: 620px;
+    background: url(modelx.jpg);
+    background-size: cover;
+}
+
+.content3 {
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+.content3 h1 {
+    font-size: 50px;
+}
+
+.links3 {
+    position: absolute;
+    margin-top: 44%;
+    margin-left: 30%;
+}
+
+.links3 .custom3 {
+    padding: 10px 80px;
+    text-decoration: none;
+    color: #fff;
+    background-color: rgb(37, 37, 37);
+    border-radius: 5px;
+}
+
+.links3 .exit3 {
+    padding: 10px 80px;
+    text-decoration: none;
+    color: rgb(37, 37, 37);
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.sp {
+    width: 100%;
+    height: 700px;
+    background: url(Solarp.jpg);
+    background-size: cover;
+}
+
+.content4 {
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+.content4 h1 {
+    font-size: 50px;
+}
+
+.links4 {
+    position: absolute;
+    margin-top: 52%;
+    margin-left: 30%;
+}
+
+.links4 .custom4 {
+    padding: 10px 80px;
+    text-decoration: none;
+    color: #fff;
+    background-color: rgb(37, 37, 37);
+    border-radius: 5px;
+}
+
+.links4 .exit4 {
+    padding: 10px 80px;
+    text-decoration: none;
+    color: rgb(37, 37, 37);
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.sr {
+    width: 100%;
+    height: 700px;
+    background: url(solarroof.jpg);
+    background-size: cover;
+}
+
+.content5 {
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+.content5 h1 {
+    font-size: 50px;
+}
+
+.links5 {
+    position: absolute;
+    margin-top: 52%;
+    margin-left: 30%;
+}
+
+.links5 .custom5 {
+    padding: 10px 80px;
+    text-decoration: none;
+    color: #fff;
+    background-color: rgb(37, 37, 37);
+    border-radius: 5px;
+}
+
+.links5 .exit5 {
+    padding: 10px 80px;
+    text-decoration: none;
+    color: rgb(37, 37, 37);
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.acc {
+    width: 100%;
+    height: 800px;
+    background: url(accessories.jpg);
+    background-size: cover;
+}
+
+.content6 {
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 20%;
+}
+
+.content6 h1 {
+    font-size: 50px;
+}
+
+.links6 {
+    position: absolute;
+    margin-top: 58%;
+    margin-left: 43%;
+}
+
+.links6 .custom6 {
+    padding: 10px 80px;
+    text-decoration: none;
+    color: #fff;
+    background-color: rgb(37, 37, 37);
+    border-radius: 5px;
+}
